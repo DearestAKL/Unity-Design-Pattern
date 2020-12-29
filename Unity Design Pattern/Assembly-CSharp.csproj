@@ -67,6 +67,10 @@
     <Compile Include="Assets\Game Programming Patterns\FlyweightPattern\FlyweightPattern.cs" />
     <Compile Include="Assets\Game Programming Patterns\ObserverPattern\ObserverPattern.cs" />
     <Compile Include="Assets\Game Programming Patterns\PrototypePattern\PrototypePattern.cs" />
+    <Compile Include="Assets\Game Programming Patterns\SingletonPattern\SingletonPattern.cs" />
+    <Compile Include="Assets\Game Programming Patterns\StatePattern\StatePattern.cs" />
+    <Compile Include="Assets\Game Programming Patterns\SubclassSandboxPattern\SubclassSandboxPattern.cs" />
+    <Compile Include="Assets\Game Programming Patterns\TypeObjectPattern\TypeObjectPattern.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Program/Unity/Unity2019/2019.4.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

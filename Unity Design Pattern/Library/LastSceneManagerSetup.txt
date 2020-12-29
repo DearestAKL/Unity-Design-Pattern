@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Game Programming Patterns/PrototypePattern/PrototypePattern.unity
+- path: Assets/Game Programming Patterns/SubclassSandboxPattern/SubclassSandboxPattern.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
