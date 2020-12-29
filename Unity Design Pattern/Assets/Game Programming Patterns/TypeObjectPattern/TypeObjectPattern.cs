@@ -21,11 +21,13 @@ namespace TypeObjectPattern
 
     public abstract class Monster
     {
-        private int health;
+        private int attack;
 
-        public int GetHealth
+        public int GetAttack
         {
-            get { return health; }
+            get { return attack; }
         }
+
     }
+
 }
