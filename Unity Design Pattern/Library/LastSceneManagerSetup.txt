@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Game Programming Patterns/SubclassSandboxPattern/SubclassSandboxPattern.unity
+- path: Assets/Game Programming Patterns/EventQueuePattern/Ex02/EventQueuePatternEx02.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -64,6 +64,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Game Programming Patterns\CommandPattern\CommandPattern.cs" />
+    <Compile Include="Assets\Game Programming Patterns\ComponentPattern\ComponentPattern.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\EventQueue.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\EventQueueManager.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\EventQueuePatternEx01.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\GameEvent.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\IMessageEvent.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\MessageEvent.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\MessagePriority.cs" />
+    <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex02\EventQueuePatternEx02.cs" />
     <Compile Include="Assets\Game Programming Patterns\FlyweightPattern\FlyweightPattern.cs" />
     <Compile Include="Assets\Game Programming Patterns\ObserverPattern\ObserverPattern.cs" />
     <Compile Include="Assets\Game Programming Patterns\PrototypePattern\PrototypePattern.cs" />
