@@ -74,6 +74,8 @@
     <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex01\MessagePriority.cs" />
     <Compile Include="Assets\Game Programming Patterns\EventQueuePattern\Ex02\EventQueuePatternEx02.cs" />
     <Compile Include="Assets\Game Programming Patterns\FlyweightPattern\FlyweightPattern.cs" />
+    <Compile Include="Assets\Game Programming Patterns\ObjectPoolPattern\Example\Scripts\Core\PoolManager.cs" />
+    <Compile Include="Assets\Game Programming Patterns\ObjectPoolPattern\Example\Scripts\Core\PoolObject.cs" />
     <Compile Include="Assets\Game Programming Patterns\ObserverPattern\ObserverPattern.cs" />
     <Compile Include="Assets\Game Programming Patterns\PrototypePattern\PrototypePattern.cs" />
     <Compile Include="Assets\Game Programming Patterns\SingletonPattern\SingletonPattern.cs" />
